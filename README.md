@@ -37,7 +37,7 @@ The dashboard consists of five analytical pages:
 
 ## Project Files
 - `.pbix` – Power BI project file.
-- `Dashboard_Screenshots/` – Dashboard page previews.
+- `PLaystore Analytics` – Dashboard page previews.
 - `Dataset/` – Source datasets, where redistribution is permitted.
 
 ## How to Explore
